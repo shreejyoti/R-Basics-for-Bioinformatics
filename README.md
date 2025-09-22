@@ -1,2 +1,3 @@
 # R-Basics-for-Bioinformatics
-Collection of R assignments demonstrating data analysis, visualization, and bioinformatics workflows. Includes cleaned and structured code, results, and documentation.
+This repository is a curated collection of assignments designed to build a strong foundation in R programming for bioinformatics.
+The work demonstrates proficiency in core R functions, the tidyverse ecosystem, and fundamental data analysis workflows frequently applied in genomics and biomedical research.
